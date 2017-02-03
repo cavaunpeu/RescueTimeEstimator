@@ -8,6 +8,6 @@ Maintainer: Will Wolf <williamabrwolf@gmail.com>
 Description: Exposes a single method sampling from a "Poor-Man's Dirichlet" model for estimating a typical week of RescueTime data
 License: MIT
 Depends: R (>= 3.0.2), Rcpp (>= 0.12.9), methods
-Imports: rstan (>= 2.14.1), rstantools (>= 1.1.0.9000)
+Imports: rstan (>= 2.14.1), rstantools (>= 1.1.0.9000), Rcpp (>= 0.12.9)
 LinkingTo: StanHeaders (>= 2.14.0.1), rstan (>= 2.14.1), BH (>= 1.62.0.1), Rcpp (>= 0.12.9), RcppEigen (>= 0.3.2.9.0)
 RoxygenNote: 6.0.0

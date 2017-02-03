@@ -2,6 +2,6 @@ exportPattern("^[[:alpha:]]+")
 
 export(buildModel)
 
-import(Rcpp)
+importFrom(Rcpp, sourceCpp)
 importFrom(rstan,sampling)
 useDynLib(RescueTimeEstimator, .registration = TRUE)

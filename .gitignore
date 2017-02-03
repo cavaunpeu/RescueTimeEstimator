@@ -6,3 +6,4 @@ cleanup*
 .Rprofile
 .Rbuildignore
 .Rhistory
+.Rproj.user
