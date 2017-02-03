@@ -1,12 +1,12 @@
 Package: RescueTimeEstimator
 Type: Package
-Title: What the package does (short line)
+Title: Exposes a single method sampling from a "Poor-Man's Dirichlet" model for estimating a typical week of RescueTime data
 Version: 1.0
 Date: 2017-02-03
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one line)
-License: What license is it under?
+Author: Will Wolf <williamabrwolf@gmail.com>
+Maintainer: Will Wolf <williamabrwolf@gmail.com>
+Description: Exposes a single method sampling from a "Poor-Man's Dirichlet" model for estimating a typical week of RescueTime data
+License: MIT
 Depends: R (>= 3.0.2), Rcpp (>= 0.12.9), methods
 Imports: rstan (>= 2.14.1), rstantools (>= 1.1.0.9000)
 LinkingTo: StanHeaders (>= 2.14.0.1), rstan (>= 2.14.1), BH (>= 1.62.0.1), Rcpp (>= 0.12.9), RcppEigen (>= 0.3.2.9.0)
