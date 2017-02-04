@@ -7,3 +7,5 @@ cleanup*
 .Rbuildignore
 .Rhistory
 .Rproj.user
+packrat/lib*/
+packrat/src/
