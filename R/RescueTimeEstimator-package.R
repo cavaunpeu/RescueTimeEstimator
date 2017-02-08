@@ -22,4 +22,5 @@
 #' @useDynLib RescueTimeEstimator, .registration = TRUE
 #'
 #' @import rstan
+#' @import methods
 NULL
